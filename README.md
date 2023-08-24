@@ -9,7 +9,7 @@ Welcome to the "Wine Quality Prediction using Python" repository. This project d
 
 ## Usage
 
-- Clone the repository: `git clone https://github.com/your-username/wine-quality-prediction.git`
+- Clone the repository: `git clone https://github.com/Thorus-Slughorm/Wine-quality-prediction.git`
 - Navigate to the project directory: `cd wine-quality-prediction`
 - Install dependencies: `pip install -r requirements.txt`
 - Run the Jupyter notebook: `jupyter notebook wine_quality_prediction.ipynb`
